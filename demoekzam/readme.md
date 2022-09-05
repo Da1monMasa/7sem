@@ -6,3 +6,9 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 # Критерии оценки
 
 ![image](https://user-images.githubusercontent.com/73188898/188390413-bc7f484e-b0eb-4b20-bcf5-d4135a50cf3f.png)
+
+Модуль 1: Анализ и
+проектирование
+требований, бизнеспроцессов
+
+## UML-Diagramm
