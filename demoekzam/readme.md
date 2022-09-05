@@ -27,3 +27,9 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 
 Модуль 4: Разработка
 desktop-приложений
+
+Модуль 5: Разработка
+приложений для
+мобильных платформ
+
+## Mobile Apps
