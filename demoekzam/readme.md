@@ -12,3 +12,18 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 требований, бизнеспроцессов
 
 ## UML-Diagramm
+
+Модуль 2: Проектирование
+реляционного хранилища
+данных
+
+## ER-Diagramm, DataBase.
+
+Модуль 3: Разработка баз
+данных, объектов баз
+данных и импорт
+
+## Import from Execel, csv, txt, cod.
+
+Модуль 4: Разработка
+desktop-приложений
