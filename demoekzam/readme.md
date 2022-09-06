@@ -107,3 +107,6 @@ desktop-приложений
 include - используем ЕСЛИ БЕЗ ЭТОГО ДЕЙСТВИЯ НЕЛЬЗЯ ВЫПОЛНИТЬ ОСНОВНОЕ
 extend - не обязательно
 
+## UML Диаграмма турагенства пример
+
+![image](https://user-images.githubusercontent.com/73188898/188580309-fc1bcc4d-8472-40aa-8b67-3d9c47efe27f.png)
