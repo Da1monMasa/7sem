@@ -67,3 +67,6 @@ desktop-приложений
 Умение работать с readme.md
 
 ![image](https://user-images.githubusercontent.com/73188898/188397365-c0122272-3847-402e-8efa-87c8fae9bb12.png)
+
+
+# Unified Modeling Language (UML) - Унифицированный язык моделирования
