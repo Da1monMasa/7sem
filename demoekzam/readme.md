@@ -127,3 +127,9 @@ ER диаграммы бывают
 
 ![image](https://user-images.githubusercontent.com/73188898/189849340-bdabaf2c-bbbd-45b9-8f59-2e1c7fbffc8c.png)
 
+# Создание базы данных
+Нажал правой кнопкой мыши по своей БД, создал запрос
+
+![image](https://user-images.githubusercontent.com/73188898/189850183-d9933646-7387-445c-aa9b-66f543ae32fc.png)
+
+login: 195md password: 12345
