@@ -133,3 +133,7 @@ ER диаграммы бывают
 ![image](https://user-images.githubusercontent.com/73188898/189850183-d9933646-7387-445c-aa9b-66f543ae32fc.png)
 
 login: 195md password: 12345
+
+![image](https://user-images.githubusercontent.com/73188898/189851211-b8daaad9-3a55-4c7e-93fb-ec482bb242ae.png)
+
+![image](https://user-images.githubusercontent.com/73188898/189851776-3282c139-57ec-4fd0-be51-710020d684ee.png)
