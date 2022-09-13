@@ -140,3 +140,4 @@ login: 195md password: 12345
 
 ![image](https://user-images.githubusercontent.com/73188898/189852916-60a3f5ec-8de5-43a8-96ca-0bcb02998db2.png)
 
+Отключать Auto Incriment если: у нас паспортные данные 
