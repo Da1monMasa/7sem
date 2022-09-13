@@ -124,3 +124,6 @@ ER диаграммы бывают
 ![image](https://user-images.githubusercontent.com/73188898/189847843-9c425ed6-803c-4e0c-ab58-576f9a66da10.png)
 
 ![image](https://user-images.githubusercontent.com/73188898/189849074-599d1eaf-d074-4c28-811e-0bbf0135f696.png)
+
+![image](https://user-images.githubusercontent.com/73188898/189849340-bdabaf2c-bbbd-45b9-8f59-2e1c7fbffc8c.png)
+
