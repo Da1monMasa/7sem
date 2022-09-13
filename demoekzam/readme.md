@@ -140,4 +140,12 @@ login: 195md password: 12345
 
 ![image](https://user-images.githubusercontent.com/73188898/189852916-60a3f5ec-8de5-43a8-96ca-0bcb02998db2.png)
 
+![image](https://user-images.githubusercontent.com/73188898/189865557-7070c48d-70da-4bd3-989c-946c36982906.png)
+
+
 Отключать Auto Incriment если: у нас паспортные данные 
+
+Связи: Один ко многим = внешний ключ(таблица у которой слово "один" выбираем первичный ключ, и ведём связь к столбцу таблицы "много". В ОДНОЙ стране МНОГО отель),
+Многие ко многим = многим людям нравятся много книг, отдельная таблица с двумя первичными кючами
+
+Типы данных: int, date, float,binary,bit,char,datetime,image,money,varchar,nvarchar
