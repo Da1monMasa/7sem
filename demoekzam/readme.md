@@ -149,3 +149,6 @@ login: 195md password: 12345
 Многие ко многим = многим людям нравятся много книг, отдельная таблица с двумя первичными кючами
 
 Типы данных: int, date, float,binary,bit,char,datetime,image,money,varchar,nvarchar
+
+![image](https://user-images.githubusercontent.com/73188898/192772710-bf9de7f0-c0b5-45f8-b92c-bce974ee2de6.png)
+
