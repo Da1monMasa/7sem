@@ -152,3 +152,22 @@ login: 195md password: 12345
 
 ![image](https://user-images.githubusercontent.com/73188898/192772710-bf9de7f0-c0b5-45f8-b92c-bce974ee2de6.png)
 
+
+Перевод в единое время в Excel таблице. 
+1) Разделить данные по столбцам
+2) Добавить скрин, где находится функция разделения по столбцам
+![image](https://user-images.githubusercontent.com/73188898/195324885-f212f0a5-4ba1-4966-81c8-3c0ca3483fef.png)
+
+Перевод в часы:
+![image](https://user-images.githubusercontent.com/73188898/195326632-4cd2e459-cea7-4e21-b5ff-651bfdc5df06.png)
+
+Перевод в минуты:
+
+![image](https://user-images.githubusercontent.com/73188898/195327109-43765ccc-0951-4314-9f99-526329a5899e.png)
+
+ВПР: Функция позволяет заменить 
+Таблица для ВПР:
+![image](https://user-images.githubusercontent.com/73188898/195328395-980e66c7-0429-4985-a161-c27868f84de4.png)
+
+![image](https://user-images.githubusercontent.com/73188898/195329657-32ed8f56-6c88-40bd-9d2c-65a895bc1e3d.png)
+
