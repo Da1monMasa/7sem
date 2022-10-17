@@ -171,3 +171,10 @@ login: 195md password: 12345
 
 ![image](https://user-images.githubusercontent.com/73188898/195329657-32ed8f56-6c88-40bd-9d2c-65a895bc1e3d.png)
 
+1-я формула
+![image](https://user-images.githubusercontent.com/73188898/196126722-1c819767-0160-4ca0-8c2a-a818d8019d60.png)
+
+2-я формула
+
+![image](https://user-images.githubusercontent.com/73188898/196126816-1e32ca31-a345-45e8-bfc0-b5b0efe8ca08.png)
+
