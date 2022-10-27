@@ -197,3 +197,11 @@ login: 195md password: 12345
 ![image](https://user-images.githubusercontent.com/73188898/198227528-409ee245-4257-4246-827b-ca61afd0b250.png)
 
 Данные для входа: Логин test Пароль: 11111
+
+![image](https://user-images.githubusercontent.com/73188898/198243155-9d157e23-5d93-4c0d-a675-0acc808db325.png)
+
+Данные для входа: Логин Admin Пароль: Admin
+
+![image](https://user-images.githubusercontent.com/73188898/198243406-e9d9d94b-f430-427c-8196-2740fdeaa5c6.png)
+
+Данные для входа: Логин Admin Пароль: 12345
