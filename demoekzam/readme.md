@@ -206,4 +206,10 @@ login: 195md password: 12345
 
 Данные для входа: Логин Admin Пароль: 12345
 
+![image](https://user-images.githubusercontent.com/73188898/201060431-4046748d-be34-46e9-b9cd-a6a5155edc9d.png)
 
+Данные для входа: Логин Admin Пароль: 12345
+
+![image](https://user-images.githubusercontent.com/73188898/201060526-f6dfc5e0-33f7-4416-9cdc-98bf6d10e07f.png)
+
+Данные для входа: Логин 1 Пароль: 1
