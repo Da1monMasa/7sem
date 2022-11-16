@@ -37,3 +37,9 @@
 
 ![image](https://user-images.githubusercontent.com/73188898/202146195-c18c6fc6-9e84-445b-a897-a4cbe42add09.png)
 
+# Импорт в БД
+Чтобы импортировать данные в БД необходимо нажать правой кнопкой мыши по нужно базе данных --> Задачи --> Импорт данных 
+
+![image](https://user-images.githubusercontent.com/73188898/202147452-fb017153-4ced-422f-b864-f416372a6218.png)
+
+
