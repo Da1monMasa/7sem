@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/73188898/202110500-450869e8-19e4-4201-89a0-b7fe6e7394f3.png)
 
-По выходу получается так: 
+По выходу получается так. Разделён столбец ФИО на три столбца "Фамилия", "Имя", "Отчество". 
 
 ![image](https://user-images.githubusercontent.com/73188898/202111824-268bbe7d-442b-483f-a744-7d3f3e1d984b.png)
 
