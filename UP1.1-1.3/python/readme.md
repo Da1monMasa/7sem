@@ -13,3 +13,5 @@
 # Вывод студентов женского пола
 
 ![image](https://user-images.githubusercontent.com/73188898/205070471-2a3429bf-a540-4853-a290-f207dfd18001.png)
+
+![image](https://user-images.githubusercontent.com/73188898/205450431-544ec5e0-2f00-4928-8775-16729b03a89c.png)
