@@ -52,6 +52,6 @@ Written code
 
 ![image](https://user-images.githubusercontent.com/73188898/206005853-ce216964-4105-4796-9829-fede8f018128.png)
 
-![image](https://user-images.githubusercontent.com/73188898/206005886-78998e40-f225-41e6-9c91-0f7fe3f6dca9.png)
+
 
 
