@@ -53,5 +53,8 @@ Written code
 ![image](https://user-images.githubusercontent.com/73188898/206005853-ce216964-4105-4796-9829-fede8f018128.png)
 
 
+![ActualTours](https://user-images.githubusercontent.com/73188898/206250597-8d6ccbd3-6bae-496f-b1e3-83e212e3eb49.png)
+
+![HealtandActual](https://user-images.githubusercontent.com/73188898/206252929-d81089ab-ae17-4d08-a767-923edd64d274.png)
 
 
