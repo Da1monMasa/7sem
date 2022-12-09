@@ -16,7 +16,7 @@ namespace WpfApp1.Models
     public partial class GachiToursEntities : DbContext
     {
 
-        private static GachiToursEntities _context;
+        private static GachiToursEntities _context;  // определение базы данных, его контекста
         public GachiToursEntities()
             : base("name=GachiToursEntities")
         {
